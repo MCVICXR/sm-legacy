@@ -1,0 +1,29 @@
+
+
+<a class="footnote-link" data-footnote-id="1" href="#fn-1"><sup id="ss-1">1</sup></a>
+
+footnotes{display:none}
+
+.footnote-box{
+position:absolute;
+z-index:10000;
+padding:25px;
+background-color:#fff;
+border:1px solid #6c6e6d;
+box-shadow:2px 2px 10px 0 rgba(0,0,0,.4);
+font-weight:500;
+font-size:13px;
+line-height:16px;
+letter-spacing:.01em;display:none}
+
+@media screen and (max-width:39.8em){.footnote-box{left:0!important;width:100%!important;font-size:12px;line-height:18px}}.footnote-box a{color:#cd251f}.footnote-box a:hover{color:#a11d18}.footnote-box 
+
+.footnote-close{position:absolute;right:8px;top:8px;display:block;color:#6c6e6d;border:1px solid #6c6e6d;width:15px;text-align:center;height:15px;line-height:12px;font-weight:300;border-radius:2px;font-size:14px;text-decoration:none}.footnote-box 
+
+.footnote-close:hover{background-color:#f5f5f5;color:#393b3a;border-color:#393b3a;text-decoration:none}
+
+.footnote-link{background-color:#cd251f;color:#f8f7f3;padding:0 6px;border-radius:3px;vertical-align:sub;display:inline-block;height:15px;margin:0 2px;font-family:"Balto Web","Knockout 52 A","Knockout 52 B",HelveticaNeue,Helvetica,Arial,sans-serif;font-weight:500}
+
+.footnote-link:hover{background-color:#a11d18}.footnote-link sup{line-height:1;vertical-align:text-top;display:inline-block;font-weight:500;color:#f8f7f3;font-size:10px;margin:-2px 0 0}.blog-body 
+
+.footnote-link sup{line-height:1.6;vertical-align:super}h1 .footnote-link,h2 .footnote-link,h3 .footnote-link,h4 .footnote-link,h5 .footnote-link,h6 .footnote-link{margin:0 .2em .2em;vertical-align:middle}h1 .footnote-link sup,h2 .footnote-link sup,h3 .footnote-link sup,h4 .footnote-link sup,h5 .footnote-link sup,h6 .footnote-link sup{line-height:inherit}.footnote-link.footnote-open{background-color:#6c6e6d;position:relative}.footnote-link.footnote-open:after{content:'';position:absolute;width:1px;height:12px;background:#6c6e6d;top:100%;left:50%}.newsletter-icon{width:46px;height:46px;margin-

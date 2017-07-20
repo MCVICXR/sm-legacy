@@ -1,0 +1,149 @@
+/* main body css */
+
+/* commence primary ignition */
+
+		header, section, footer, aside, nav, article, figure, figcaption {
+			display: block;}
+		body { 
+			font-family: Georgia, "Times New Roman", serif, Myriad Pro;
+			background-position: center;}
+		#page { 
+			width: 960px;
+			height: auto;
+			margin: 10px auto 10px auto;}
+
+/* end primary ignition */
+
+/* start header */
+
+		img.logo { 
+			width: 940px;
+			height: 175px;
+			display: block;
+			margin: 0px auto;}
+		ul.erste {
+			width: 940px;
+			height: 30px;
+			padding: 10px 0px 10px 0px;
+			margin: 10px auto 0px auto;
+			text-align: center;}
+		li.zweite {
+			display: inline;
+			margin: 0px 0px;}
+		img.home, .archive, .twitter, .soundcloud, .about { 
+			width: 100px;
+			height: 50px;
+			margin: -10px 0px -10px 0px;}
+
+/* end header */
+
+/* start section title */
+
+		#sectiontitle { 
+			width: 940px;
+			height: 155px;
+			display: block;
+			margin: 10px auto 10px auto;}
+		img.trpbannerx { 
+			width: 940px;
+			height: 155px;}
+		a:link { 
+			color: #000;
+			text-decoration: none;}
+		a:hover { 
+			color: #000;
+			text-decoration: underline;}
+		#delta {
+			color: #000;
+			text-decoration: underline;}
+
+/* end section title */
+
+/* start content */
+
+		#content { 
+			width: 605px;
+			height: auto;
+			margin: 10px;
+			padding: 0px;
+			float: left;}
+		h2, h4 { 
+			color: #000;}
+		* p { 
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 2em;
+			text-align: left;}
+		div.section {
+			text-align: center;}
+		hr.divide { 
+			margin: 5px 0px 15px 0px}
+		figure.pg { 
+			margin-left: -0px;}
+		img.entry5title {
+			width: 604px;
+			height: auto;
+			margin: 0px auto;}
+		img.entry4title { 
+			width: 604px;
+			height: 453px;
+			margin: 0px auto;}
+		img.entry2title { 
+			width: 604px;
+			height: 325px;
+			margin: 0px auto;}
+		img.entry1title { 
+			width: 604px;
+			height: 331.5px;
+			margin: 0px auto;}
+		img.collection { 
+			height: 351px;
+			width: 604px;
+			margin: 0px auto;}
+		img.illmatic { 
+			width: 250px;
+			height: 100px;
+			margin: 0px 0px -15px 0px;}
+		img.nas { 
+			height: auto;
+			width: 604px;
+			margin: 0px auto;}
+		iframe.video { 
+			margin: 0px auto;
+			padding-left: 22px;}
+
+/* end content */
+
+/* start sidebar */
+
+		aside { 
+			width: 315px;
+			height: auto;
+			float: left;}
+		img.navbox1 { 
+			height: 236.5px;
+			width: 315px;
+			margin: 10px 0px 10px 10px;}
+		img.navbox2 { 
+			height: 193px;
+			width: 315px;
+			display: block;
+			margin: 10px 0px 10px 10px;
+			float: left;}
+
+/* end sidebar */
+
+/* start footer */
+
+		footer { 
+			clear: both;}
+		ul.voltorb {
+			width: 940px;
+			padding: 10px 0px 10px 0px;
+			margin: 10px auto 0px auto;
+			text-align: center;}
+		li.electrode {
+			display: inline;
+			margin: 0px 5px;}
+
+/* end header */
